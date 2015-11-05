@@ -23,18 +23,18 @@ img {
 
 #google {
 	margin-top: 15%;
-	margin-left: 4%;
 	margin-bottom: 2%;
+	margin-left: 8%;
 }
 
 .btn-right-fleche {
 	opacity: 0.7;
-	width: 90%;
-	margin-left: 2%;
+	width: 91%;
+	margin-left: 3%;
 }
 
 .search_data {
-	margin-left: 8%;
+	margin-left: 3%;
 	width: 90%;
 	height: 80%;
 }
