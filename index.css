@@ -1,14 +1,16 @@
+/*global margin padding website*/
 body {
 	margin: 0 auto;
 	padding: 0 auto;
 }
 
-
+/*top content*/
 #menu {
 	display: inline-block;
 	margin-left: 88%;
 }
 
+/*top content paragraph*/
 p {
 	display: inline-block;
 	margin-right: 4px;
@@ -17,20 +19,24 @@ p {
 	opacity: 0.7;
 }
 
+/*google image*/
 img {
 	width: 35%;
 }
 
+/*google float*/
 #google {
 	margin-top: 15%;
 	margin-left: 37%;
 	margin-bottom: 2%;
 }
 
+/*search button*/
 .btn-right-fleche {
 	opacity: 0.7;
 }
 
+/*search bar*/
 .search_data {
 	margin-left: 32%;
 	width: 30%;
